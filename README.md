@@ -5,7 +5,7 @@ A detail-oriented **Virtual Assistant**, **WordPress Developer**, and **Technica
 
 ---
 
-### 👨‍💻 What I Do:
+### What I Do:
 - Technical writing. Read my articles[@Macmichael55](https://macmichael.hashnode.dev/)
 - Build WordPress sites, themes, and troubleshoot errors
 - Data Entry
@@ -13,7 +13,7 @@ A detail-oriented **Virtual Assistant**, **WordPress Developer**, and **Technica
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack & Tools
 `WordPress` • `HTML` • `CSS` •  `Git/GitHub`  
 `Notion` • `Zoho CRM` • `Google Workspace` • `MS Excel`  
 `VS Code` • `Canva` • `Slack` • `Zoom`
@@ -37,7 +37,7 @@ As a Virtual Assistant, I provide a wide range of remote support services to hel
 
 ---
 
-### 💬 Communication Support
+### Communication Support
 - Respond to emails and client messages
 - Handle customer inquiries via chat, email, or phone
 - Coordinate communication between teams and stakeholders
@@ -59,7 +59,7 @@ As a Virtual Assistant, I provide a wide range of remote support services to hel
 
 ---
 
-### 📫 Let's Connect 
+### Let's Connect 
 Email: `danielmcmichael55@gmail.com`
 
 ---
