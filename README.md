@@ -26,16 +26,16 @@ A detail-oriented **Administrative and Virtual Assistant**, **WordPress Develope
 - Maintain accurate and organized records
 - Conduct online research and compile findings
 - Create and update client contact lists
+
+  
   Link to my Resume: https://docs.google.com/document/d/1qBb_2s9fQgbozSqx2E9lh-_7Tx5At38SOXe4Ig86iFY/edit?usp=drive_link
+---
 
 - As a Content and Technical Writer. I have written couple of articles. Here is a link to some of my works:[@Macmichael55](https://macmichael.hashnode.dev/)
    
 ### Featured Projects
 - **[Openreplay Portfolio](https://blog.openreplay.com/css-pseudo-classes/)**
 
-  
- I build WordPress sites, themes, and troubleshoot errors
-- Perfom Data Entry tasks.
   
 ---
 
